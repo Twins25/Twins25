@@ -43,7 +43,10 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apoorvmaurya&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/Nahuel61920/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </div>
 
 ## 📫Connect With Me
