@@ -3,6 +3,7 @@
 <h1 align="center">Hi there 👋 I'm Kristen Teo</h1>
 <h3 align="center">A passionate developer creating innovative solutions for real-world problems</h3>
 
+
 <p align="center">
   <a href="https://react-tailwind-css-k.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linktr.ee/ap00rv" target="_blank"></a>
