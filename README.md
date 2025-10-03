@@ -1,6 +1,6 @@
 ![It's ME](https://iili.io/HP917HJ.png)
 
-<h1 align="center">Hi there 👋 I'm Kristen Teo</h1>
+<h1 align="center">Hi!</h1>
 <h3 align="center">A passionate developer creating innovative solutions for real-world problems</h3>
 
 
