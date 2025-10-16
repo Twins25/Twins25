@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://my-port-folio-seven-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+ 
   <a href="https://linktr.ee/ap00rv" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=apoorvmaurya&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
